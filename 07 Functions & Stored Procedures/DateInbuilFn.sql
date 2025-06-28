@@ -1,0 +1,14 @@
+select now();
+select curdate();
+select curtime();
+select year(curdate());
+select month(curdate());
+select day(curdate());
+select week(curdate());
+select date_add(curdate(),interval 70 day);
+select date_sub(curdate(),interval 70 day);
+select datediff(curdate(),'2025-8-3');
+select date_format(now(),'%W,%M %e %Y');
+select dayname(now());
+select monthname(now());
+select str_to_date('24-06-2025','%d-%m-%Y');

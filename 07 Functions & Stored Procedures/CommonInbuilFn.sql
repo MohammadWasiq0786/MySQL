@@ -1,0 +1,10 @@
+select database();
+select version();
+select user();
+select char_length("euron");
+select length("euron");
+select reverse("euron");
+select uuid();
+select if(5<3 ,'sudh','kumar');
+select coalesce(NULL,NULL,'backup',null,'sudh');
+select isnull(NULL);

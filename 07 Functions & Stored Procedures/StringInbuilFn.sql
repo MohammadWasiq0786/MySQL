@@ -1,0 +1,13 @@
+select concat('euron' ," ","plus" );
+select upper('sudh');
+select lower('Euron');
+select length('euron');
+select substring('sql masters',5);
+select substring('sql masters',1,4);
+select replace('learn sql by doing practical','by',"");
+select trim('   sudh    ');
+select left("sudhanshu",4);
+select right("sudhanshu",4);
+select lpad('sudh',8,1);
+select rpad('sudh',8,1);
+select repeat('sql',4);
