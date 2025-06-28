@@ -1,0 +1,6 @@
+id,name,salary,doj,dept
+1,John Doe,50000,2022-01-15,HR
+2,Jane Smith,60000,2021-09-01,Finance
+3,Alice Johnson,55000,2023-03-20,IT
+4,Bob Lee,70000,2020-07-12,Marketing
+5,Sara Khan,,2019-12-05,HR
